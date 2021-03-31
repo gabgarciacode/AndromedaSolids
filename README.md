@@ -39,7 +39,7 @@ Para compilar o software é necessário a [Unity](https://unity.com/). Este proj
 
 ## Tecnologias Utilizadas
 * Unity: Estrutura toda do projeto
-	* C#: Programação
+* C#: Programação
 * JSON: Representação dos Sólidos
 * Krita e Adobe Photoshop CC: Edição de Imagens
 
